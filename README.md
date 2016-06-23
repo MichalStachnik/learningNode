@@ -1,2 +1,2 @@
 # learningNode
-different node exampls
+different node examples
